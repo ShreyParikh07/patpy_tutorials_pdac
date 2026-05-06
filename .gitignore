@@ -1,0 +1,16 @@
+# Local data caches (downloaded by patpy.datasets, etc.)
+data/
+.dataset-cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+*~
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
