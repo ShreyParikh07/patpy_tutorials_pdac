@@ -13,6 +13,7 @@ This repository is included as a git submodule in `patpy/docs/tutorials/notebook
 - `differential_analysis.ipynb` — differential gene expression across condition combinations.
 - `synthetic_data_generation.ipynb` — generating synthetic data with controlled perturbations.
 - `distances_test_example.ipynb` — statistical test for distances between case and control samples.
+- `immune_aging_multiresolution_composition.ipynb` — Human Immune Health Atlas: benchmarking sample representations across AIFI label resolutions.
 
 ## Editing tutorials
 
