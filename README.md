@@ -6,7 +6,7 @@ This repository is included as a git submodule in `patpy/docs/tutorials/notebook
 
 ## Tutorials
 
-- `representation_methods_example.ipynb` — using sample representation methods.
+- `benchmarking_sample_representation_methods.ipynb` — using sample representation methods, datasets, and metrics via patpy interface for easy benchmarking.
 - `sources_of_variation_with_gloscope.ipynb` — understanding sources of variation in single-cell data with GloScope.
 - `Patient_trajectories_example.ipynb` — patient trajectory analysis from sample representations.
 - `supervised_methods_example.ipynb` — supervised sample-level methods (MixMIL, PULSAR, PaSCient).
