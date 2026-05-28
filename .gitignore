@@ -2,8 +2,9 @@
 data/
 .dataset-cache/
 
-# Notebook checkpoints
+# Notebook checkpoints + smoke-test artifacts
 .ipynb_checkpoints/
+_smoke*.ipynb
 
 # OS / editor
 .DS_Store
