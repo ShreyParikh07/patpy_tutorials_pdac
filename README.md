@@ -13,6 +13,7 @@ This repository is included as a git submodule in `patpy/docs/tutorials/notebook
 - `differential_analysis.ipynb` — differential gene expression across condition combinations.
 - `synthetic_data_generation.ipynb` — generating synthetic data with controlled perturbations.
 - `distances_test_example.ipynb` — statistical test for distances between case and control samples.
+- `immune_aging_multiresolution_composition.ipynb` — Immune Health Atlas: CLR, pseudobulk, PILOT, and baselines across AIFI L1–L3; plottable benchmark table plus KNN vs PERMANOVA (CLR) for key phenotypes.
 
 ## Editing tutorials
 
